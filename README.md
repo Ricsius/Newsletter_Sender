@@ -1,2 +1,2 @@
-#What is this project?
+# What is this project?
 This app can send newsletters by email.
